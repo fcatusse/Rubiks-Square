@@ -1,6 +1,6 @@
 # Rubiks-Square
 
-_Un programme en C qui résout le Rubik's cube (une introduction à l'algorithmie)
+_Un programme en C qui résout le Rubik's cube (une introduction à l'algorithmie_
 
 __Bibliothèque autorisée : aucune__
 
