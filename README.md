@@ -1,10 +1,10 @@
 # Rubiks-Square
 
-_Un programme en C qui résout le Rubik's cube (une introduction à l'algorithmie)_
+_Un programme en C qui résout un Rubik's square (Rubik's Cube en 2D :) ) (une introduction à l'algorithmie)_
 
 __Bibliothèque autorisée : aucune__
 
-Le programme solutionne un Rubik's "Square" de la manière suivante 
+Le programme solutionne un Rubik's "Square" de la manière suivante :
 
 1. Gestion du déplacement des lignes horizontales, verticales et rotations
 2. Recherche d'une valeur dans une ligne et dans une colonne
